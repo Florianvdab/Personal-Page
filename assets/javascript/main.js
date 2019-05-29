@@ -9,7 +9,7 @@ function init() {
         this.className = "is-active";
     }
 
-    document.getElementById("home").addEventListener("click",)
+    // document.getElementById("home").addEventListener("click",)
 }
 
 function home(){
