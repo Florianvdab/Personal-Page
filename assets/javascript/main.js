@@ -8,4 +8,14 @@ function init() {
         document.getElementsByClassName("is-active")[0].className = "";
         this.className = "is-active";
     }
+
+    document.getElementById("home").addEventListener("click",)
+}
+
+function home(){
+
+}
+
+function socialmedia(){
+    
 }
