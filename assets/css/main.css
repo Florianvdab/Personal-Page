@@ -30,6 +30,12 @@ svg {
     margin-bottom: 3rem !important;
 }
 
+@media only screen and (max-width: 768px) {
+    .hero-foot{
+        min-height: 10vh;
+    }
+}
+
 .hero-foot{
     min-height: 5vh;
 }
