@@ -24,10 +24,10 @@ function home() {
 function socialmedia() {
     document.getElementById("main").innerHTML = '<p class="title is-size-2">Social Media</p >' +
         '<p class="subtitle is-size-4">Feel free to contact me!</p>'+
-        '<div><a href="https://www.facebook.com/florian.vandenabeele.35"><svg class="facebook"></svg></a>' +
-        '<a href="https://github.com/Florianvdab"><svg class="github"></svg></a>' +
-        '<a href="https://www.instagram.com/florian.vdab/"><svg class="instagram"></svg></a>' +
-        '<a href="https://steamcommunity.com/id/WifixOfficial/"><svg class="steam"></svg></a>'+
+        '<div><a href="https://www.facebook.com/florian.vandenabeele.35" target="_blank"><svg class="facebook"></svg></a>' +
+        '<a href="https://github.com/Florianvdab" target="_blank"><svg class="github"></svg></a>' +
+        '<a href="https://www.instagram.com/florian.vdab/" target="_blank"><svg class="instagram"></svg></a>' +
+        '<a href="https://steamcommunity.com/id/WifixOfficial/" target="_blank"><svg class="steam"></svg></a>'+
         '</div>'
 
 }
