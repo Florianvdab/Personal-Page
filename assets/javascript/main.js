@@ -12,7 +12,7 @@ function init() {
 
     document.getElementById("home").addEventListener("click", home);
     document.getElementById("socialmedia").addEventListener("click", socialmedia);
-    document.getElementById("project").addEventListener("click", project);
+    document.getElementById("projects").addEventListener("click", project);
     document.getElementById("resume").addEventListener("click", resume);
 }
 
