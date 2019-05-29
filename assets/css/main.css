@@ -1,31 +1,37 @@
-.facebook{
+.facebook {
     background: url(../img/facebook.svg);
-    height:50px;
-    width:50px;
+    height: 50px;
+    width: 50px;
 }
 
-.github{
+.github {
     background: url(../img/github.svg);
-    height:50px;
-    width:50px;
+    height: 50px;
+    width: 50px;
 }
 
-.steam{
+.steam {
     background: url(../img/steam.svg);
-    height:50px;
-    width:50px;
+    height: 50px;
+    width: 50px;
 }
 
-.instagram{
+.instagram {
     background: url(../img/instagram.svg);
-    height:50px;
-    width:50px;
+    height: 50px;
+    width: 50px;
 }
 
-svg{
-    margin:1rem;
+svg {
+    margin: 1rem;
 }
 
-.title{
-    margin-bottom:3rem !important;
+.title {
+    margin-bottom: 3rem !important;
+}
+
+@media only screen and (max-width: 768px) {
+    .hero.is.fullheight {
+        min-height: 90vh;
+    }
 }
