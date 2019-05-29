@@ -32,7 +32,7 @@ svg {
 
 @media only screen and (max-width: 768px) {
     .hero-foot{
-        min-height: 10vh;
+        min-height: 10vh !important;
     }
 }
 
