@@ -1,0 +1,27 @@
+.facebook{
+    background: url(../img/facebook.svg);
+    height:50px;
+    width:50px;
+}
+
+.github{
+    background: url(../img/github.svg);
+    height:50px;
+    width:50px;
+}
+
+.steam{
+    background: url(../img/steam.svg);
+    height:50px;
+    width:50px;
+}
+
+.instagram{
+    background: url(../img/instagram.svg);
+    height:50px;
+    width:50px;
+}
+
+svg{
+    margin:1rem;
+}
