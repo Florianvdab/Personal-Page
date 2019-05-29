@@ -30,8 +30,6 @@ svg {
     margin-bottom: 3rem !important;
 }
 
-@media only screen and (max-width: 768px) {
-    .hero.is.fullheight {
-        min-height: 90vh;
-    }
+.hero-foot{
+    min-height: 5vh;
 }
