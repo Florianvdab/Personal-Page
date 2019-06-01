@@ -29,3 +29,15 @@ svg {
 .title {
     margin-bottom: 3rem !important;
 }
+
+@media only screen and (max-width: 768px) {
+    .hero-foot{
+        min-height: 10vh !important;
+    }
+}
+
+img{
+    width:500px;
+    height:500px;
+    border-radius: 8px;
+}
