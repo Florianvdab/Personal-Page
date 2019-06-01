@@ -46,4 +46,7 @@ img {
         height:250px;
         width: 250px;
     }
+    .tabs{
+        display:inherit !important;
+    }
 }
