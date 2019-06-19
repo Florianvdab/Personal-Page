@@ -41,11 +41,13 @@ img {
     ul {
         display: inherit !important;
     }
-    img{
-        height:250px;
+
+    img {
+        height: 250px;
         width: 250px;
     }
-    .tabs{
-        display:inherit !important;
+
+    .tabs {
+        display: inherit !important;
     }
 }
