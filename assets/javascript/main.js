@@ -47,10 +47,10 @@ function resume() {
 
 function project() {
     document.getElementById("main").innerHTML = "<p class='title is-size-2'>Projects</p >" +
-        '<a href="https://ict-week-group6.herokuapp.com/" class="subtitle is-size-5"><span class="has-text-weight-bold">Wild Animals Tracking: An IoT Solution </span> | EPHEC | 2019</a>' +
+        '<a target="_blank" href="https://ict-week-group6.herokuapp.com/" class="subtitle is-size-5"><span class="has-text-weight-bold">Wild Animals Tracking: An IoT Solution </span> | EPHEC | 2019</a>' +
         "<p class='subtitle is-size-5'>An IoT solution to track wild animals with an IoT Device over the LoRaWAN network.</p>" +
         "</br>" +
-        '<a href="http://fvdab.azurewebsites.net/" class="subtitle is-size-5"><span class="has-text-weight-bold">Website about my love for music </span>| Burgerschool Roeselare | 2017</a>' +
+        '<a target="_blank" href="http://fvdab.azurewebsites.net/" class="subtitle is-size-5"><span class="has-text-weight-bold">Website about my love for music </span>| Burgerschool Roeselare | 2017</a>' +
         "<p class='subtitle is-size-5'>This website was made for a school assignment. It's made via Bootstrap, the HTML, CSS & JS Framework.</p>";
 
 }
