@@ -53,10 +53,10 @@ function project() {
         '<a target="_blank" href="http://fvdab.azurewebsites.net/" class="subtitle is-size-5"><span class="has-text-weight-bold">Website about my love for music </span>| Burgerschool Roeselare | 2017</a>' +
         "<p class='subtitle is-size-5'>This website was made for a school assignment. It's made via Bootstrap, the HTML, CSS & JS Framework.</p>" +
         "</br>" +
-        '<a target="_blank" href="http://aquatic-nature.be/" class="subtitle is-size-5"><span class="has-text-weight-bold">Aquatic-Nature </span>| WordPress CMS system created as a student employee | 2019</a>' +
+        '<a target="_blank" href="http://aquatic-nature.be/" class="subtitle is-size-5"><span class="has-text-weight-bold">Aquatic-Nature </span>| 2019</a>' +
         "<p class='subtitle is-size-5'>This CMS system was created for IAT BVBA during my employment in 2019.</p>" +
         "</br>" +
-        '<a target="_blank" href="http://www.regiseyeonnature.com/" class="subtitle is-size-5"><span class="has-text-weight-bold">WordPress Photography blog created as a student employee </span>| 2019</a>' +
+        '<a target="_blank" href="http://www.regiseyeonnature.com/" class="subtitle is-size-5"><span class="has-text-weight-bold"> Regiseyeonnature </span>| 2019</a>' +
         "<p class='subtitle is-size-5'>This blog was created for Reginald Popelier, founder of IAT and asked me to create his website after my deployment at IAT.</p>"
         ;
 
