@@ -19,7 +19,7 @@ function init() {
 function home() {
     document.getElementById("main").innerHTML = '<p class="title is-size-2">Florian Vandenabeele</p >' +
         '<p class="subtitle is-size-4">Student Software & System Engineer @ Howest Bruges</p>' +
-        "<img src='assets/img/self.jpg'></img>"
+        "<img src='assets/img/self2019.jpg'></img>"
 }
 
 function socialmedia() {
