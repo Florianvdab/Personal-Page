@@ -41,6 +41,7 @@ function resume() {
         '<p class="subtitle is-size-5"><span class="has-text-weight-bold">Informaticabeheer </span> | Burgerschool Roeselare | 2009 - 2017</p>' +
         '</br>' +
         '<p class="title is-size-4">Work Experience</p>' +
+        '<p class="subtitle is-size-5"><span class="has-text-weight-bold">IAT-Aquatic Nature - 6 Week student employment </span> | Roeselare | 2019</p>'+
         '<p class="subtitle is-size-5"><span class="has-text-weight-bold">IT Partner - 2 Week internship </span> | Moorslede | 2016</p>';
 }
 
@@ -54,7 +55,7 @@ function project() {
         "<p class='subtitle is-size-5'>This website was made for a school assignment. It's made via Bootstrap, the HTML, CSS & JS Framework.</p>" +
         "</br>" +
         '<a target="_blank" href="http://aquatic-nature.be/" class="subtitle is-size-5"><span class="has-text-weight-bold">Aquatic-Nature </span>| 2019</a>' +
-        "<p class='subtitle is-size-5'>This CMS system was created for IAT BVBA during my employment in 2019.</p>" +
+        "<p class='subtitle is-size-5'>CMS - WordPress with WooCommerce, Yoast SEO  and self-made Javascript/Jquery.</p>" +
         "</br>" +
         '<a target="_blank" href="http://www.regiseyeonnature.com/" class="subtitle is-size-5"><span class="has-text-weight-bold"> Regiseyeonnature </span>| 2019</a>' +
         "<p class='subtitle is-size-5'>This blog was created for Reginald Popelier, founder of IAT and asked me to create his website after my deployment at IAT.</p>"
