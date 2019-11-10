@@ -4,6 +4,19 @@
     width: 50px;
 }
 
+.linkedin {
+    background: url(../img/linkedin.svg);
+    height: 50px;
+    width: 50px;
+}
+
+.mail {
+    background: url(../img/mail.svg);
+    height: 50px;
+    width: 50px;
+}
+
+
 .github {
     background: url(../img/github.svg);
     height: 50px;
